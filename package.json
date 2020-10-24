@@ -1,7 +1,7 @@
 {
-  "name": "uniswap-v2-subgraph",
+  "name": "koifish-subgraph",
   "version": "1.0.0",
-  "repository": "https://github.com/graphprotocol/uniswap-v2-subgraph",
+  "repository": "https://github.com/lancesf/koifish-subgraph",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "codegen": "graph codegen --output-dir src/types/",
