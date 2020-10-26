@@ -55,7 +55,9 @@ let WHITELIST: string[] = [
   '0x960b236a07cf122663c4303350609a66a7b288c0', //ANT
   '0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f', //SNX
   '0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e', //YFI
-  '0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8' // yCurv
+  '0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8', // yCurv
+
+  '0xF9436Cb69066020b888214A02d9DB7AE440Db885' //TST
 ]
 
 // minimum liquidity required to count towards tracked volume for pairs with small # of Lps
